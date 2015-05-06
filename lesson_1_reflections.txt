@@ -14,3 +14,7 @@ Q4.Why do you think some version control systems, like Git, allow saving multipl
 
 It is because when we are working with coding and development the changes made in one code is to be reflected in all the files related with it. Else you have to manualy make copies of each of the files individiualy which will be a really hectic task to be in track
 
+Q5.What happens when you initialize a repository? Why do you need to do it?
+
+When you intialize a repository all the features of GIT are added to the repository. A .git folder with all the settings and information required to manage the version controlling of the git is created.
+
