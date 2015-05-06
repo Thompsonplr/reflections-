@@ -1,0 +1,16 @@
+Q1.How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+If we weren't to use the diff command we had to open the two source codes individually go through them from top to bottom until you find the error and then compare. It will be easy to do if the codes were just few numbers. Now imagine the situation if the total number of codes were above 1000 lines. It will be hectic and lots of time would be wasted if all done manually.
+
+Q2.How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Programming a big project is not an easy task. There will be thousands of lines of code within few weeks and keeping track of the changes you made manually will be very difficult and lots of errors can happen. Now all the changes you make in those codes won't be easy to track and keep tab on. Even if it was you yourself who had programmed the code within a few days you might forget what the changes were made. This were having access to the entire history of a file makes you more effiecent. It helps you in saving more time which could be lost if you had to manually find the changes.
+
+Q3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+The biggest advantage is that you have good control over the changes being made. In Google docs versions are automatically changed at any given time without any control you have. It's not based on the changes you make the versions are created and that will be really frusturating and difficult to manage.
+
+Q4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+It is because when we are working with coding and development the changes made in one code is to be reflected in all the files related with it. Else you have to manualy make copies of each of the files individiualy which will be a really hectic task to be in track
+
